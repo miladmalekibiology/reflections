@@ -1,1 +1,4 @@
-hello dear my firend how are you my dear friend
+<<<<<<< HEAD
+=======
+dear dear friend friend, hello dear my firend how are you my dear friend
+>>>>>>> origin/master
